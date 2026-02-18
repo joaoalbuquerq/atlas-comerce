@@ -1,4 +1,4 @@
-package com.atlascomerce.pedidos.model;
+package com.atlascomerce.pedidos.model.enums;
 
 public enum StatusPedido {
 
